@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaveshpeak&theme=github-compact&hide_border=true&height=200&area=true" alt="Bhaveshpeak commit activity graph" />
-</p>
+![Bhaveshpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhaveshpeak&show_icons=true&include_all_commits=true&hide_border=true)
