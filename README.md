@@ -1,1 +1,1 @@
-![Bhaveshpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhaveshpeak&show_icons=true&include_all_commits=true&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=Bhaveshpeak&hide_border=true)
