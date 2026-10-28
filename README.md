@@ -4,8 +4,8 @@ I’m **BhaveshPeak** on GitHub. Welcome to my profile!
 
 ## My GitHub activity
 
-Here’s my recent commit activity over time (**Date** on the x-axis, **Commits** on the y-axis).
+My activity over the last year (**Date** on the x-axis, **Contributions** on the y-axis).
 
-[![BhaveshPeak's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhaveshPeak)](https://github.com/BhaveshPeak)
+![BhaveshPeak's GitHub activity over the last year](https://raw.githubusercontent.com/BhaveshPeak/BhaveshPeak/main/activity-365d.svg)
 
 [Visit my GitHub profile](https://github.com/BhaveshPeak)
