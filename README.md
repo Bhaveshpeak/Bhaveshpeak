@@ -1,7 +1,3 @@
-# Hi, I'm Bhavesh
-
-Welcome to my profile!
-
 ## My GitHub activity
 
 My activity over the last year (**Date** on the x-axis, **Contributions** on the y-axis).
